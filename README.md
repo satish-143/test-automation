@@ -22,3 +22,6 @@ This repository contains solutions for the POS Malaysia API testing and UI autom
 
 ## Test Scenario
 The UI automation test verifies that a user can calculate shipping rates from Malaysia to India and see multiple quote options.
+
+## Postman POS collection
+Link - https://github.com/satish-143/test-automation/blob/main/POS.postman_collection.json
